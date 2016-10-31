@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NativeFaceDetector</string>
+    <string name="text_cam_permission_explanation">Camera permission needed for app to work properly. Please allow in App Settings.</string>
+    <string name="dialog_title_permission_required">Permission required</string>
+    <string name="text_btn_ok">OK</string>
+    <string name="text_front_cam_not_found">Front camera not found, fall back to rear camera</string>
+    <string name="dialog_title_no_camera">Hardware camera not found</string>
+    <string name="dialog_message_no_camera_installed">This device has no installed cameras. The app will close.</string>
+</resources>
